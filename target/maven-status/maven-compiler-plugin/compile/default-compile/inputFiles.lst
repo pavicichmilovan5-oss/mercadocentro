@@ -1,0 +1,16 @@
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/MercadocentroApplication.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/auth/User.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/config/SecurityConfig.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/product/Product.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/product/ProductController.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/product/ProductRepository.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/product/ProductService.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/product/dto/ProductAdminDTO.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/product/dto/ProductCatalogDTO.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/product/dto/ProductCreateDTO.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/sale/InsufficientStockException.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/sale/Sale.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/sale/SaleItem.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/sale/SaleRepository.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/sale/SaleService.java
+/workspaces/mercadocentro/src/main/java/com/mercadocentro/sale/SaleStatus.java

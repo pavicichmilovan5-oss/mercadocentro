@@ -1,0 +1,14 @@
+services:
+  db:
+    image: postgres:16
+    container_name: mercadocentro-db
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: Milo5210
+      POSTGRES_DB: mercadocentro
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+volumes:
+  pgdata:
